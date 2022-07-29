@@ -1,4 +1,4 @@
-/ Function to implement lower_bound
+// Function to implement lower_bound
 int lower_bound(int arr[], int N, int X)
 {
     int mid;
